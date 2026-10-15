@@ -14,6 +14,7 @@
 
 *＊GroveシステムはSeeed Technology Limited社の登録商標です。*
 
+**[回路図](Schematics/raspi_start_20171221_V111fix.pdf)**
 
 **本製品向けのソースコードについては以下ページにて公開されております。**  
 **[https://shell-mag.com/raspi_original_code/](https://shell-mag.com/raspi_original_code/)**
